@@ -3,7 +3,6 @@ local DoodleActivationFunction={}
 
 -- this E is basically luau's implementation of e, we localize it so we dont waste speed pulling from global which causes Reduced Scope Lookup
 local E = math.exp
--- local MAX = math.max
 local HUGE = math.huge
 
 --MAKE SURE THE TABLE PASSED IN IS 0 INDEXED
