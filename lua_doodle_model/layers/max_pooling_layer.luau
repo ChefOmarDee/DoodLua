@@ -1,7 +1,6 @@
 --!strict
 local DoodleMaxPooling = {}
 
-local MAX = math.max
 local HUGE = math.huge
 local FLOOR = math.floor
 
